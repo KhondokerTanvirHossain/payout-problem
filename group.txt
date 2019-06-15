@@ -1,0 +1,20 @@
+1,Sohoj Sorol,Cool Eyes,Sohoj Sorol
+2,Bahubali,NoaShal_Turbo,Bahubali
+3,Deshi Boys,Dabang,Deshi Boys
+4,Dynastic,Dabang,Dynastic
+5,Megamind,Direwolves,Megamind
+6,NoaShal_Turbo,Spark Circle,NoaShal_Turbo
+7,Deshi Boys,Sohoj Sorol,Deshi Boys
+8,Cool Eyes,Dabang,Cool Eyes
+9,Bahubali,Direwolves,Bahubali
+10,Deshi Boys,Dynastic,Deshi Boys
+11,Direwolves,NoaShal_Turbo,NoaShal_Turbo
+12,Megamind,Spark Circle,Spark Circle
+13,Sohoj Sorol,Dabang,Dabang
+14,Bahubali,Megamind,Megamind
+15,Dynastic,Cool Eyes,Dynastic
+16,Bahubali,Spark Circle,Bahubali
+17,Sohoj Sorol, Dynastic,Dynastic
+18,Megamind,NoaShal_Turbo,Megamind
+19,Deshi Boys,Cool Eyes,Cool Eyes
+20,Spark Circle,Direwolves,Spark Circle

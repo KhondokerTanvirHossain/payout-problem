@@ -1,0 +1,21 @@
+AFTER GROUP MATCHES : 
+
+Bahubali : 4143.375
+Cool Eyes : 5824.125
+Dabang : 1870.875
+Deshi Boys : 6934.5
+Direwolves : 522.0
+Dynastic : 6153.75
+Megamind : 3630.375
+NoaShal_Turbo : 2678.625
+Sohoj Sorol : 3273.75
+Spark Circle : 2984.625
+
+AFTER SEMI_FINAL MATCHES : 
+
+Dynastic : 10411.3125
+Deshi Boys : 11502.5625
+
+AFTER FINAL MATCHES : 
+Dynastic : 25092.5625
+Deshi Boys : 16129.6875
